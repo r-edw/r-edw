@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello! 👋
+
+Software engineer based in Northern Ireland. Currently working at [rapid7](https://www.rapid7.com/) doing all things frontend. Generally working with React.
+
+Occasionally dabbles in other areas of the stack...
 
 <!--
 **r-edw/r-edw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
