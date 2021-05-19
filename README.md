@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-Software engineer based in Northern Ireland. Currently working at [rapid7](https://www.rapid7.com/) doing all things frontend. Generally working with React.
+Software engineer based in Northern Ireland. Currently working at [Impala](https://impala.travel/), formerly [Rapid7](https://www.rapid7.com/) doing all things frontend. Generally working with React.
 
 Occasionally dabbles in other areas of the stack...
 
