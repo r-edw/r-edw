@@ -1,8 +1,11 @@
 ### Hello! 👋
 
-Software engineer based in Northern Ireland. Currently working at [Impala](https://impala.travel/) doing all things frontend. Generally working with React. Formerly [Rapid7](https://www.rapid7.com/).
+Software engineer from Northern Ireland. Currently taking a career break and located in Sydney, Australia. Generally working with JS, TypeScript, and React. Formerly [Rapid7](https://www.rapid7.com/), and [Impala](https://impala.travel/).
 
 Occasionally dabbles in other areas of the stack...
+
+- [LinkedIn](https://www.linkedin.com/in/ryan-edwards-a77120a5/)
+- Work Github -> [r-edwards](https://github.com/r-edwards)
 
 <!--
 **r-edw/r-edw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
